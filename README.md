@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @nmartin-hrw
 - Here is text *in italics*
 - Here is some text **in bold**
-- And a simple [URL to link to](hrw.org)
+- And a simple [URL to link to](https://hrw.org)
 - 📫 How to reach me ...
 
 <!---
